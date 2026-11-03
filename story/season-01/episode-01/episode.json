@@ -1,0 +1,33 @@
+{
+  "number": 1,
+  "title": "The Last Normal Week",
+  "dates": "19–25 February 2026",
+  "summary": "Something falls into the snow in Northern Ontario, and the internet turns it into a joke. Twelve thousand kilometres away, on a campus outside Indore, five students who barely know each other have one more week of ordinary life.",
+  "mood": "Late winter seen through a phone screen at night: frost, cold paper, and the red of a notification badge.",
+  "fonts": {
+    "display": "Big Shoulders Display",
+    "display_weights": "600;800",
+    "body": "Newsreader",
+    "ui": "IBM Plex Mono"
+  },
+  "palette": {
+    "light": {
+      "bg": "#EDF0F3",
+      "paper": "#F7F9FA",
+      "fg": "#14181D",
+      "muted": "#566474",
+      "accent": "#C9352A",
+      "rule": "#CCD3DA",
+      "screen": "#FFFFFF"
+    },
+    "dark": {
+      "bg": "#0B0E12",
+      "paper": "#11151A",
+      "fg": "#E3E7EC",
+      "muted": "#8896A6",
+      "accent": "#FF5E4F",
+      "rule": "#242B34",
+      "screen": "#181E26"
+    }
+  }
+}
